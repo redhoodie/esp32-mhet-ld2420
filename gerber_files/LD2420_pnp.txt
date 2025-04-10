@@ -1,0 +1,25 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=LD2420
+*Date=21:25:36
+*CreatedBy=Fritzing 0.9.10b.2022-07-01.CD-2134-0-40d23c29
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;13.1601;-20.6232;0;Bottom;Via6
+2;;;16.891;-19.4428;0;Bottom;Copper Fill1
+3;;;23.3344;-18.075;0;Bottom;Via4
+4;;;15.7001;-18.0832;0;Bottom;Via3
+5;;THT;4.2701;-14.2732;0;Bottom;J2
+6;;THT;18.2401;-35.8632;-90;Bottom;J1
+7;;;20.7668;-15.5436;0;Bottom;Via2
+8;;THT;29.6701;-14.2732;0;Bottom;J3
+9;;;13.1601;-10.4632;0;Bottom;Via5
+10;;;15.7001;-15.5432;0;Bottom;Via1
